@@ -1,6 +1,4 @@
-# Prodigy InfoTech - Machine Learning Internship
-
-## Task 03: Image Classification (Cats vs. Dogs) using SVM
+### Image Classification (Cats vs. Dogs) using SVM
 
 ### 📌 Objective
 Implement a Support Vector Machine (SVM) to classify images of cats and dogs from the Kaggle dataset.
